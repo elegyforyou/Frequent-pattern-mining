@@ -1,2 +1,1 @@
-# Frequent-pattern-mining
-基于Parallel FP-Growth的英雄联盟数据分析
+随着电子竞技运动项目的兴起，人们在观看比赛之余，也愈发对影响比赛胜负的影响因素产生了浓厚的兴趣，获得胜利的关键是什么呢，左右胜负的英雄组合又有哪些呢？于是，基于学到的大数据技术和算法，结合分布式计算环境的优势，选择用Paralle FP-Growth算法对英雄联盟数据进行分析。集群配置包括一台master和一台slave,并成功实现运行了Parallel FP-Growth 算法的三个mapreduce实例，取得了理想的结果。
